@@ -1,0 +1,201 @@
+﻿world_rank,university_name,country,teaching,international,research,citations,income,total_score,num_students,student_staff_ratio,international_students,%_Female_Students
+1,California Institute of Technology,United States of America,95.6,64,97.6,99.8,97.8,95.2,"2,243",6.9,27%,33
+2,University of Oxford,United Kingdom,86.5,94.4,98.9,98.8,73.1,94.2,"19,919",11.6,34%,46
+3,Stanford University,United States of America,92.5,76.3,96.2,99.9,63.3,93.9,"15,596",7.8,22%,42
+4,University of Cambridge,United Kingdom,88.2,91.5,96.7,97,55,92.8,"18,812",11.8,34%,46
+5,Massachusetts Institute of Technology,United States of America,89.4,84,88.6,99.7,95.4,92,"11,074",9,33%,37
+6,Harvard University,United States of America,83.6,77.2,99,99.8,45.2,91.6,"20,152",8.9,25%,
+7,Princeton University,United States of America,85.1,78.5,91.9,99.3,52.1,90.1,"7,929",8.4,27%,45
+8,Imperial College London,United Kingdom,83.3,96,88.5,96.7,53.7,89.1,"15,060",11.7,51%,37
+9,ETH Zurich â€“ Swiss Federal Institute of Technology Zurich,Switzerland,77,97.9,95,91.1,80,88.3,"18,178",14.7,37%,31
+10,University of Chicago,United States of America,85.7,65,88.9,99.2,36.6,87.9,"14,221",6.9,21%,42
+11,Johns Hopkins University,United States of America,77.6,70,90.4,98.2,100,87.6,"15,128",3.6,23%,
+12,Yale University,United States of America,86.5,64.3,87.8,97.2,43.3,87.4,"11,751",4.4,20%,50
+13,"University of California, Berkeley",United States of America,80.4,61.9,91.1,99.7,47.9,87.2,"36,186",16.4,15%,50
+14,University College London,United Kingdom,78.1,94.4,91,94.2,40.5,87.1,"26,607",10.7,46%,56
+15,Columbia University,United States of America,85.9,73.5,82.2,98.1,-,86.1,"25,055",5.9,28%,
+16,"University of California, Los Angeles",United States of America,80.8,56.4,88.6,98.5,47.9,85.8,"38,206",10.3,15%,52
+17,University of Pennsylvania,United States of America,82,49.5,86.9,98.6,47.9,85.2,"20,376",6.5,20%,51
+18,Cornell University,United States of America,77.9,63.9,86.1,97.2,33.7,84,"21,424",10.2,19%,48
+19,University of Toronto,Canada,75.9,77.8,89.3,90.9,49.1,83.9,"66,198",19.5,15%,
+20,Duke University,United States of America,76,56.5,78,99,100,82.7,"15,172",4.8,17%,49
+21,University of Michigan,United States of America,76.8,53.7,85.2,94.4,56.3,82.4,"41,786",9,16%,48
+22,Carnegie Mellon University,United States of America,67.4,57.1,88.8,99.1,57.5,82.3,"11,885",13.1,35%,39
+23,London School of Economics and Political Science,United Kingdom,69.8,93.6,80.6,94.3,32.2,81.3,,,,
+24,University of Edinburgh,United Kingdom,68.6,89.8,77.2,96.3,36.1,80.3,"25,774",14.1,36%,58
+25,Northwestern University,United States of America,69.8,53.9,78.4,96.5,81.2,79.5,"18,334",13.8,15%,48
+26,National University of Singapore,Singapore,71.7,96.2,84.5,79.4,49.8,79.2,"31,592",15.5,34%,49
+27,Kingâ€™s College London,United Kingdom,64.5,93.8,75.8,93.8,40.1,78.2,"21,394",11.4,37%,
+28,Karolinska Institute,Sweden,60.6,73.1,81.1,92.2,75.8,77.5,"7,774",11.5,22%,70
+29,LMU Munich,Germany,70.5,62.8,77.4,85.7,100,77.3,"35,691",15.5,13%,62
+30,New York University,United States of America,74.7,49.3,72.3,95.3,30.4,77.2,"42,056",6.8,19%,55
+31,Ã‰cole Polytechnique FÃ©dÃ©rale de Lausanne,Switzerland,61.3,98.6,67.5,94.6,65.4,76.1,"9,666",10.5,54%,27
+32,University of Washington,United States of America,67.1,51.2,70,98.6,43.1,75.6,"44,020",11.8,13%,
+33,University of Melbourne,Australia,62,87.1,75.5,86.6,64.6,75.4,"40,128",23.7,35%,55
+34,University of British Columbia,Canada,60.2,90.5,73.2,91.5,42.6,75.3,"50,152",17.6,25%,54
+35,KU Leuven,Belgium,59.9,68.6,76.9,87.3,100,74.8,"42,503",41.9,18%,54
+36,University of Illinois at Urbana-Champaign,United States of America,64.5,45.8,81.2,86.8,52.8,74.5,"42,727",18.7,20%,47
+37,Heidelberg University,Germany,68.8,62.8,69.6,88.2,68.2,74.4,"28,881",24.5,17%,55
+38,McGill University,Canada,66.1,85.5,72.1,78.9,40.3,72.6,"31,326",13.7,23%,56
+39,"University of California, San Diego",United States of America,56.9,42.9,69.8,98.7,56.7,72.2,"27,233",6.5,11%,48
+39,"University of California, Santa Barbara",United States of America,52.6,61.5,66,99.2,90.4,72.2,"22,020",27.3,11%,52
+41,Georgia Institute of Technology,United States of America,57.8,71.5,72.7,86,73.7,72.1,"19,967",20.1,26%,31
+42,Peking University,China,77.8,49.2,72.4,69.1,100,72,"40,148",8.3,14%,
+43,University of Tokyo,Japan,81.4,30.3,83,60.9,50.8,71.1,"26,199",5.7,10%,
+44,"University of California, Davis",United States of America,60.1,58.4,72.7,84.3,57.3,71,"35,364",13.9,13%,54
+44,University of Hong Kong,Hong Kong,64.6,99.5,72.8,70.1,53.7,71,"19,835",17.6,38%,53
+46,University of Texas at Austin,United States of America,59.3,31.7,69.7,92.2,63.1,70.3,"49,427",17.4,9%,51
+47,Tsinghua University,China,73.3,39.5,83,58.8,100,70,"39,763",13.7,10%,32
+47,Wageningen University and Research Center,Netherlands,52.6,70.3,66.9,87.8,100,70,"9,248",17,21%,56
+49,Humboldt University of Berlin,Germany,63.7,62.6,77,73.6,36.1,69.9,"29,987",52.5,16%,
+50,University of Wisconsin-Madison,United States of America,65.1,33,68.2,86.6,48.5,69.7,"39,655",10.8,11%,51
+51,Brown University,United States of America,62.8,57.8,55.7,96.4,31.4,69.6,"8,653",10.1,19%,
+52,Australian National University,Australia,54.7,93.3,77.3,72.3,48,69.5,"14,604",19.2,35%,52
+53,Technical University of Munich,Germany,61,63.8,66,80.1,99.2,69.4,"35,565",31.5,20%,33
+54,Ã‰cole Normale SupÃ©rieure,France,70.6,85.5,47.7,87.1,37.1,69,"2,400",7.9,20%,46
+55,Nanyang Technological University,Singapore,48.4,94.6,61.3,85.6,99.9,68.2,"25,028",16.2,33%,
+56,University of Manchester,United Kingdom,58.4,87,66,77.3,42,68.1,"34,938",15.3,34%,52
+56,University of Sydney,Australia,54.3,84.4,68.1,77.5,72.4,68.1,"41,868",20.2,28%,57
+58,University of Amsterdam,Netherlands,52.2,66.5,64.7,87.4,62.8,67.8,"24,570",14.4,11%,53
+59,Hong Kong University of Science and Technology,Hong Kong,49.4,80.5,66.1,82.6,68.1,67.2,"11,385",23.8,36%,
+60,The University of Queensland,Australia,49.2,89.3,62.8,82.4,76.7,67,"34,718",32.7,27%,53
+60,Washington University in St Louis,United States of America,54.3,44.9,55.6,99.2,33.5,67,"12,528",5.7,17%,
+62,Utrecht University,Netherlands,48.1,55.8,64.3,88.1,89.1,66.6,"30,779",15.4,7%,59
+63,University of North Carolina at Chapel Hill,United States of America,58,39,54.5,95.9,39.4,66.4,"26,518",7.3,8%,58
+64,Boston University,United States of America,57.8,51,49.5,97.7,30.3,66.1,"24,789",8.6,17%,58
+65,Delft University of Technology,Netherlands,55,84,73.8,61.5,100,65.9,"15,920",19.4,25%,26
+65,University of Minnesota,United States of America,53.5,35.3,61,88,98.5,65.9,"46,825",18,13%,52
+67,Leiden University,Netherlands,50.5,64.3,63.1,85.2,49.8,65.7,"21,222",17.1,10%,59
+68,University of Southern California,United States of America,49.3,56.3,58.9,93,38,65.5,"36,534",12.9,20%,52
+69,University of Bristol,United Kingdom,47.6,82.4,51.6,91.2,40,64.3,"17,906",14,25%,53
+70,Durham University,United Kingdom,47.9,86.4,51.9,87.7,34.4,63.6,"15,489",15.7,24%,54
+71,Erasmus University Rotterdam,Netherlands,37.2,76.1,55.2,95.6,54.6,63.5,"20,580",18.9,18%,48
+72,Free University of Berlin,Germany,57.9,69.2,72.2,60.2,35.1,63.2,"33,062",39.3,20%,58
+73,Monash University,Australia,48.1,87.6,58.5,73.3,79.7,62.5,"50,882",40.5,36%,56
+74,University of Groningen,Netherlands,43.3,63.9,56.9,84,92.4,62.4,"24,556",25.6,12%,52
+75,Pennsylvania State University,United States of America,50.4,40.8,61.9,80.5,56.2,62.3,"44,501",12.4,12%,46
+76,University of Glasgow,United Kingdom,41.6,85.8,48.3,92.3,31.6,61.9,"22,616",16,29%,57
+76,University of Helsinki,Finland,48.4,51.8,60.4,82.1,31.6,61.9,"23,505",15.1,6%,66
+78,University of TÃ¼bingen,Germany,47,58.2,59.8,79.3,59.2,61.7,"28,327",38.9,12%,58
+79,University of Pittsburgh,United States of America,50.6,33.9,50.3,92.3,39.3,61.5,"26,485",5.8,10%,51
+80,University of Warwick,United Kingdom,47.4,90.3,53.1,78.2,37.7,61.3,"18,529",16.6,37%,48
+81,Uppsala University,Sweden,44.1,59.6,61,80.9,39.5,61.2,"25,266",18.2,12%,57
+82,University of Copenhagen,Denmark,49.8,83.3,42.7,86.2,45,61,"27,545",4.1,19%,67
+82,University of New South Wales,Australia,40.7,89.5,53.9,82.1,50,61,"38,309",25.9,33%,47
+84,University of Freiburg,Germany,47.4,60.3,51.1,80.5,100,60.7,"26,467",31.2,16%,52
+85,Seoul National University,South Korea,66.5,30.9,70.5,50,85.4,60.5,"26,389",13.9,10%,
+86,University of St Andrews,United Kingdom,49.7,92.3,47.3,78.8,30.6,60.4,"8,338",12.7,47%,56
+87,Vanderbilt University,United States of America,47.8,29.1,44.2,95.7,63.2,60.1,"12,161",3.6,10%,52
+88,Kyoto University,Japan,70.6,26.1,69.3,46.6,79,59.9,"22,809",5.6,7%,
+88,Maastricht University,Netherlands,37.5,95.5,47.7,82.7,95.4,59.9,"15,626",18.9,48%,56
+90,Emory University,United States of America,48.3,51,37.1,96.7,48.9,59.7,"12,338",4.5,18%,56
+90,Lund University,Sweden,39.7,74.1,53.6,81.3,70.4,59.7,"28,251",11.5,15%,
+90,Ohio State University,United States of America,51.6,53,46.6,83.2,53.1,59.7,"51,462",13.4,12%,49
+93,University of Exeter,United Kingdom,39.4,87.3,40,94.3,31.9,59.5,"17,755",18.8,28%,54
+94,University of Bonn,Germany,45.1,63.6,47.5,85.3,-,58.8,"32,474",70.4,13%,55
+94,Georgetown University,United States of America,54.4,52.7,39.3,82.5,80.7,58.8,"15,408",8.5,14%,53
+94,McMaster University,Canada,39.8,76.1,44.8,84.9,88,58.8,"23,823",19.3,15%,53
+97,University of Sheffield,United Kingdom,42.4,81.9,48.8,80.1,43.4,58.6,"23,311",15.5,31%,50
+98,Queen Mary University of London,United Kingdom,34.1,93.5,41.3,93.3,36.8,58.5,"14,260",14,40%,52
+99,University of GÃ¶ttingen,Germany,49.3,56.4,54.5,72.7,31.8,58,"25,581",25.6,12%,51
+99,Michigan State University,United States of America,47.3,56.4,52.6,76.8,32.2,58,"44,750",15.7,15%,51
+101,University of Basel,Switzerland,39.5,94.7,33.1,88.3,99.9,57.9,"12,551",17.3,24%,54
+101,Ã‰cole Polytechnique,France,53.5,92.8,44.6,64.7,82.3,57.9,"2,429",4.8,30%,18
+101,Rice University,United States of America,37.9,66.6,35.1,99.7,41.7,57.9,"6,333",9,26%,44
+104,Dartmouth College,United States of America,50.7,38.3,35.8,93.3,40.8,57.8,"6,178",6.6,16%,47
+104,University of Zurich,Switzerland,49.5,90.4,31.5,85.4,44,57.8,"26,583",6.5,19%,57
+106,Aarhus University,Denmark,36.9,76.8,50.7,79.8,68.3,57.7,"23,895",13.6,14%,54
+106,"University of California, Irvine",United States of America,39.9,59.2,41.8,91.6,48.9,57.7,"26,614",16.1,16%,52
+106,University of Mannheim,Germany,34.5,64.6,47.7,86.9,85.3,57.7,"11,761",85.8,15%,55
+108,University of Notre Dame,United States of America,47.6,47.6,48.1,81.7,33.7,57.6,"11,829",13.8,10%,44
+109,University of Western Australia,Australia,33.4,92.6,46.1,83.6,64.5,57.5,"20,851",20.7,27%,50
+110,RWTH Aachen University,Germany,49.4,54.1,56.3,63.2,98.1,57.2,"37,917",27.6,16%,31
+110,University of Southampton,United Kingdom,39.8,88.4,43.6,82,37.5,57.2,"20,925",13.5,29%,53
+112,Scuola Normale Superiore di Pisa,Italy,54.2,46.3,53.1,67.2,52,57.1,462,16.5,5%,28
+113,University of Montreal,Canada,46.3,84.2,45.5,69.6,92.6,57,"38,264",20.3,25%,57
+113,Pierre and Marie Curie University,France,52.8,74.1,32.7,82.9,37.4,57,"27,862",8.7,18%,48
+113,Purdue University,United States of America,50.2,66.4,57.7,63.2,-,57,"39,256",18.1,22%,42
+116,Pohang University of Science and Technology,South Korea,49.1,33.7,47.1,76.7,100,56.9,"3,055",10.1,4%,20
+117,"University of Maryland, College Park",United States of America,45,43.5,42.1,88.2,32.3,56.7,"31,331",8.4,9%,48
+118,Ghent University,Belgium,42.1,54.2,54.5,71.2,88.3,56.6,"32,166",34.1,9%,57
+119,University of Birmingham,United Kingdom,39.4,82,41.8,82.7,34.7,56.2,"25,295",16.4,23%,54
+120,University of Bern,Switzerland,40,83.7,42.5,76.6,82.9,56.1,"14,708",22.5,14%,54
+120,University of Cape Town,South Africa,34.9,80.2,38.7,85.6,92.7,56.1,"20,040",12.1,18%,53
+120,University of Florida,United States of America,51.8,33.3,56.8,67.7,-,56.1,"50,095",18.7,9%,54
+123,University of Erlangen-Nuremberg,Germany,51.7,47,39.7,75.2,99.4,56,"36,146",53.9,9%,49
+123,"Rutgers, the State University of New Jersey",United States of America,43.9,34.7,55.7,75.4,35.9,56,"37,032",17.3,8%,51
+125,University of MÃ¼nster,Germany,40.3,46.3,44.1,85.6,58.2,55.9,"39,838",46.1,8%,53
+125,Radboud University Nijmegen,Netherlands,34.3,60.9,48.5,84.9,39.2,55.9,"17,713",13,10%,58
+127,University of Colorado Boulder,United States of America,39.7,36.6,37.6,96.4,35.7,55.8,"29,325",16.1,8%,45
+127,Tufts University,United States of America,45.2,49.4,33.3,90.1,60.7,55.8,"10,410",10,14%,54
+129,"Royal Holloway, University of London",United Kingdom,35.1,92.7,33.2,91.2,34.4,55.7,"8,747",15.9,37%,57
+130,Lancaster University,United Kingdom,34,87,41.4,85.3,33.6,55.6,"11,512",14.9,33%,52
+131,University of Geneva,Switzerland,34.9,98.5,40.5,78.5,72.4,55.4,"15,668",15,39%,61
+131,University of York,United Kingdom,41.9,83.5,46.3,73.1,31.1,55.4,,,,
+133,Case Western Reserve University,United States of America,46.1,40.5,33.2,92,34.1,55.3,"9,259",6.4,17%,48
+133,University of Leeds,United Kingdom,43.7,77.4,39,79.2,36.7,55.3,"27,703",14.7,21%,58
+135,University of Oslo,Norway,43.3,68.2,44.7,75.5,38.3,55.1,"27,139",18.8,18%,
+136,Stockholm University,Sweden,34.1,48.5,51.2,82.5,31.1,54.8,"31,715",23.7,8%,62
+137,University of Alberta,Canada,46.4,80.7,48.1,63.6,47.4,54.7,"36,299",21.6,23%,55
+138,Chinese University of Hong Kong,Hong Kong,41.5,81.1,48.5,68.4,37.5,54.5,"17,916",10.2,22%,53
+138,Karlsruhe Institute of Technology,Germany,37.7,56.7,47.5,73.8,99.5,54.5,"25,294",24.6,16%,26
+140,University of Sussex,United Kingdom,33.4,88.3,37.2,86.1,30.6,54.4,"12,001",17.4,35%,54
+141,University of Massachusetts,United States of America,40.2,48.9,36.3,88.1,52.2,54.3,"56,959",13,11%,49
+142,University of Vienna,Austria,40.8,92.6,50.5,63.6,30.2,54.2,"34,651",20.5,25%,67
+143,University of Nottingham,United Kingdom,40.3,80.6,39,77.5,39.8,54.1,"30,144",15,27%,54
+144,"University of California, Santa Cruz",United States of America,31.1,45.6,34.2,99.9,36.1,53.9,"17,404",22.7,1%,53
+144,University of Lausanne,Switzerland,30.9,89.2,45.6,76.2,56,53.9,"11,964",13.1,22%,
+146,Autonomous University of Barcelona,Spain,40.3,50.3,40,83.8,34.9,53.8,"30,538",12.3,10%,59
+147,University of Virginia,United States of America,38.8,43.4,37.5,87.3,37.9,53.3,"23,845",10.2,12%,52
+148,Korea Advanced Institute of Science and Technology (KAIST),South Korea,43.3,33.9,40.5,75.9,100,53,"9,027",10,9%,20
+149,University of Adelaide,Australia,32.8,85.1,43.2,72.4,79.3,52.9,"20,771",30.1,26%,48
+149,University of East Anglia,United Kingdom,31.9,83.5,28.7,92.7,28.5,52.9,"14,992",14.7,28%,58
+149,University of Twente,Netherlands,34.1,80.1,45.6,68.8,91.2,52.9,"6,631",12,26%,37
+153,Sungkyunkwan University (SKKU),South Korea,51.4,36.7,53.5,53.8,97.5,52.8,"24,365",20.3,9%,39
+154,VU University Amsterdam,Netherlands,28.4,54.9,37.1,90.7,60.1,52.5,"23,280",16.3,6%,
+155,KTH Royal Institute of Technology,Sweden,39,84.4,44.3,63.9,78.1,52.4,"12,062",14.6,21%,30
+156,University of Cologne,Germany,42.2,53.1,38,75,68.5,52.3,"43,280",43.4,11%,60
+157,University of Liverpool,United Kingdom,32.8,85.4,30.9,85.9,36.6,52.2,"18,815",13.6,30%,52
+158,TU Dresden,Germany,41.4,47.7,45.8,66.1,99.7,52.1,"35,487",37.4,12%,42
+158,University of Rochester,United States of America,39.7,55.8,27.9,89,37,52.1,"9,390",4.5,26%,49
+160,Trinity College Dublin,Republic of Ireland,41.9,90.5,30.8,75.8,28,52,"15,521",18,25%,57
+161,Lomonosov Moscow State University,Russian Federation,75.4,57.8,66.7,8.6,95.7,51.9,"30,822",7.7,20%,43
+161,University of Miami,United States of America,41.7,64,22.3,90.1,35.5,51.9,"15,286",5.7,14%,50
+163,University of Arizona,United States of America,38.7,38.6,41.8,79.5,32.4,51.7,"36,429",12.7,8%,52
+164,Pompeu Fabra University,Spain,32.9,63.3,28,90.7,37.2,51.2,"10,901",18.3,13%,59
+164,University of Reading,United Kingdom,39.3,85.1,37.3,69.9,34.2,51.2,"12,050",14.8,28%,55
+164,Yeshiva University,United States of America,44.8,28.5,23.7,92.8,-,51.2,"6,753",5.5,7%,53
+167,"University of California, Riverside",United States of America,27.5,59.5,33.3,91.2,42.5,51.1,"20,626",22,12%,51
+167,University of Leicester,United Kingdom,32.1,86.6,27.8,86,31.7,51.1,"14,541",13.4,35%,
+167,National Taiwan University,Taiwan,54.1,27.7,58,47.3,49.6,51.1,"31,891",11.9,7%,39
+167,Technical University of Denmark,Denmark,37.3,85.1,29.9,77.8,50,51.1,"9,990",5,18%,27
+167,UniversitÃ© Catholique de Louvain,Belgium,38.7,74.2,40.6,68.4,51,51.1,"28,856",42,19%,54
+172,University of Aberdeen,United Kingdom,29.7,91.4,31.4,82.6,43.1,51,"12,938",15.8,33%,54
+172,University of Auckland,New Zealand,31.4,90.5,39.5,69.8,78,51,"29,787",18.9,28%,54
+174,University of Barcelona,Spain,38.5,49.2,37.4,78.9,31.1,50.9,"47,491",12.2,10%,62
+175,University of Konstanz,Germany,38.5,58.3,46.7,61.9,92.4,50.8,"10,930",59.1,12%,54
+176,Eindhoven University of Technology,Netherlands,34.3,71.3,41,70.7,57.3,50.6,"8,176",16,14%,19
+176,University College Dublin,Republic of Ireland,35,86.3,38.5,70.8,33.5,50.6,"22,193",24.5,23%,
+178,Hebrew University of Jerusalem,Israel,45.8,55.6,41.4,64.6,31.9,50.5,"17,612",10.7,5%,55
+179,University of Waterloo,Canada,35.4,74.4,43.9,66.5,39.5,50.3,"30,726",24.2,14%,45
+180,University of Gothenburg,Sweden,28.5,58.3,39.8,81.8,30.3,50.2,"26,420",16.4,12%,
+180,Scuola Superiore Santâ€™Anna,Italy,42.5,45.2,23.2,84.5,71.2,50.2,769,8.5,17%,35
+182,University of Bergen,Norway,32.5,70,31.5,82.4,36.2,50.1,"11,623",11.1,12%,60
+182,Cardiff University,United Kingdom,30.9,78.1,31.6,82,34.6,50.1,"23,347",13.1,23%,57
+182,University of Utah,United States of America,35.6,30.1,35.3,83.7,57.4,50.1,"25,674",16.9,9%,45
+185,Brandeis University,United States of America,28.3,47,25.7,97.3,38.6,49.9,"5,495",12.6,22%,55
+185,University of Dundee,United Kingdom,25.6,78.5,26.9,90.2,49.5,49.9,"11,628",15.3,25%,60
+185,University of WÃ¼rzburg,Germany,34.6,50.9,35.8,79.1,47.9,49.9,"26,576",38.4,8%,57
+188,Paris-Sud University,France,38.7,64.2,29,79.8,28.8,49.8,"27,603",15,17%,
+189,Arizona State University,United States of America,32.4,31.9,38.1,84.6,32,49.7,"83,236",29.9,9%,50
+190,University of Antwerp,Belgium,31.6,64.8,40.8,71.7,60.3,49.6,"12,346",30.3,16%,56
+190,Boston College,United States of America,34.1,60,29.3,83.3,46.8,49.6,"13,216",17.4,19%,54
+192,Ulm University,Germany,35.2,58.2,23.9,86.4,58.4,49.5,"9,187",11.2,10%,47
+193,University of Luxembourg,Luxembourg,25,99.8,26.7,84.8,38.1,49.4,"5,144",15.9,52%,50
+193,Texas A&M University,United States of America,49.4,47.8,52.4,47.1,46.4,49.4,"50,657",21.4,9%,47
+195,CharitÃ© - UniversitÃ¤tsmedizin Berlin,Germany,37.3,61.1,22.2,83.8,68.4,49.3,"6,853",6.6,16%,64
+196,Newcastle University,United Kingdom,30.9,84.3,27.5,81.5,34.7,49.2,"20,174",15.2,29%,50
+196,"St Georgeâ€™s, University of London",United Kingdom,25.6,69.5,18.1,100,37.7,49.2,"2,958",13.4,17%,61
+198,University of Trento,Italy,30.8,55.9,27.4,87.7,47.1,49.1,"16,841",43.2,8%,51
+199,Paris Diderot University â€“ Paris 7,France,30.5,64.9,22.9,91,29,48.9,"27,756",14.8,17%,63
+200,Queenâ€™s University Belfast,United Kingdom,34.1,93.4,33.3,68.9,35.7,48.8,"17,940",17.9,30%,54
