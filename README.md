@@ -1,0 +1,2 @@
+# WorldUniversityRankings
+Performed Exploratory Data Analysis over the data(200), found the correlation between the variables and done data imputation for missing values. We split the data using K-fold cross validation with train(150) and test(50) data. Then built a Multiple Linear Regression model which predicts the ranks of the universities in test data. The final model had an Adj R-squared of 96.4% which was improved by 8.1% from the initial model.
